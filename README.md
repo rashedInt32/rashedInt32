@@ -1,8 +1,8 @@
 <div align="left">
 
-### rashed &nbsp;·&nbsp; effect-ts &amp; fullstack typescript
+### Rashed Parvez &nbsp;·&nbsp; effect-ts &amp; fullstack typescript
 
-Hi, I'm rashed. about 8 years of frontend behind me, mostly React, TypeScript and
+Hi, I'm Rashed. about 8 years of frontend behind me, mostly React, TypeScript and
 Next.js. these days almost all of it goes into Effect-TS.
 
 what got me is that errors, dependencies and retries end up in the type signature
