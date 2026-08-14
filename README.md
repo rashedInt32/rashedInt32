@@ -40,7 +40,7 @@ effect-ts services, next.js apps, postgres underneath
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" width="40" alt="Neovim" title="Neovim" /></kbd>
 </p>
 
-[![GitHub Stats](https://ghstats.dev/api/card?username=rashedInt32&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade&custom_title=Stats&border_radius=10)](https://github.com/rashedInt32)
+[![GitHub Stats](https://ghstats.dev/api/card?username=rashedInt32&theme=tokyonight&hide=trend%2Cavg%2Cactive_day%2Cgrade&custom_title=Stats&border_radius=10)](https://github.com/rashedInt32)
 
 <br>
 
