@@ -27,16 +27,6 @@ effect-ts services, next.js apps, postgres underneath
   <kbd><img src="https://avatars.githubusercontent.com/u/77678942?s=80&v=4" width="40" alt="Effect-TS" title="Effect-TS" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="40" alt="React" title="React" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" width="40" alt="Next.js" title="Next.js" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="40" alt="Node.js" title="Node.js" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bun_js.png" width="40" alt="Bun" title="Bun" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="40" alt="PostgreSQL" title="PostgreSQL" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" width="40" alt="Prisma" title="Prisma" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react_query.png" width="40" alt="TanStack Query" title="TanStack Query" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="40" alt="Tailwind CSS" title="Tailwind CSS" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" width="40" alt="Vite" title="Vite" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="40" alt="Docker" title="Docker" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="40" alt="Git" title="Git" /></kbd> &nbsp;
-  <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png" width="40" alt="Lua" title="Lua" /></kbd> &nbsp;
   <kbd><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/neovim.png" width="40" alt="Neovim" title="Neovim" /></kbd>
 </p>
 
