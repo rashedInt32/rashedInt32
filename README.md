@@ -5,11 +5,6 @@
 Hi, I'm Rashed. about 8 years of frontend behind me, mostly React, TypeScript and
 Next.js. these days almost all of it goes into Effect-TS.
 
-what got me is that errors, dependencies and retries end up in the type signature
-instead of hiding in try/catch. so i've been rebuilding stuff i already know how to
-build (auth, chat, job pipelines) on top of it, to see where it actually pays off and
-where it's just ceremony.
-
 ```console
 $ whoami
 rashed · effect-ts + fullstack typescript · 8 yrs in
