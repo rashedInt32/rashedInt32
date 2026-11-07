@@ -2,12 +2,12 @@
 
 ### Rashed Parvez &nbsp;·&nbsp; effect-ts &amp; fullstack typescript
 
-Hi, I'm Rashed. about 8 years of frontend behind me, mostly React, TypeScript and
+Hi, I'm Rashed. about 10 years of frontend behind me, mostly React, TypeScript and
 Next.js. these days almost all of it goes into Effect-TS.
 
 ```console
 $ whoami
-rashed · effect-ts + fullstack typescript · 8 yrs in
+rashed · effect-ts + fullstack typescript · 10 yrs in
 
 $ what
 effect-ts services, next.js apps, postgres underneath
