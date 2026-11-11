@@ -5,6 +5,8 @@
 Hi, I'm Rashed. about 10 years of frontend behind me, mostly React, TypeScript and
 Next.js. these days almost all of it goes into Effect-TS.
 
+my portfolio, a hall you can walk into: **[rashedint32.github.io](https://rashedint32.github.io/)**
+
 ```console
 $ whoami
 rashed · effect-ts + fullstack typescript · 10 yrs in
